@@ -13,18 +13,18 @@
 [submodule "clone-twitter"]
 	path = clone-twitter
 	url = https://github.com/toy-project-kyungsle/clone-twitter.git
-[submodule "board-client"]
-	path = board-client
-	url = https://github.com/toy-project-kyungsle/board-client.git
-[submodule "board-server"]
-	path = board-server
-	url = https://github.com/toy-project-kyungsle/board-server.git
+[submodule "q-board-client"]
+	path = q-board-client
+	url = https://github.com/toy-project-kyungsle/q-board-client.git
+[submodule "q-board-server"]
+	path = q-board-server
+	url = https://github.com/toy-project-kyungsle/q-board-server.git
 [submodule "drag-drop-puzzle"]
 	path = drag-drop-puzzle
 	url = https://github.com/toy-project-kyungsle/drag-drop-puzzle.git
-[submodule "extract-string-program"]
-	path = extract-string-program
-	url = https://github.com/toy-project-kyungsle/extract-string-program.git
+[submodule "extract-string"]
+	path = extract-string
+	url = https://github.com/toy-project-kyungsle/extract-string.git
 [submodule "bae-duo-server"]
 	path = bae-duo-server
 	url = https://github.com/toy-project-kyungsle/bae-duo-server.git
@@ -43,9 +43,9 @@
 [submodule "my-blog-image-server"]
 	path = my-blog-image-server
 	url = https://github.com/toy-project-kyungsle/my-blog-image-server.git
-[submodule "comment-book-web"]
-	path = comment-book-web
-	url = https://github.com/toy-project-kyungsle/comment-book-web.git
+[submodule "comment-book"]
+	path = comment-book
+	url = https://github.com/toy-project-kyungsle/comment-book.git
 [submodule "npm-common-package"]
 	path = npm-common-package
 	url = https://github.com/toy-project-kyungsle/npm-common-package.git
