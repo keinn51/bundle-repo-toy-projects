@@ -1,51 +1,51 @@
 [submodule "clone-youtube"]
 	path = clone-youtube
 	url = https://github.com/toy-project-kyungsle/clone-youtube.git
-[submodule "make-movie-app"]
-	path = make-movie-app
-	url = https://github.com/toy-project-kyungsle/make-movie-app.git
+[submodule "recommend-movie-app"]
+	path = recommend-movie-app
+	url = https://github.com/toy-project-kyungsle/recommend-movie-app.git
 [submodule "clone-slack"]
 	path = clone-slack
 	url = https://github.com/toy-project-kyungsle/clone-slack.git
-[submodule "make-react-boiler-plate"]
-	path = make-react-boiler-plate
-	url = https://github.com/toy-project-kyungsle/make-react-boiler-plate.git
+[submodule "react-boiler-plate"]
+	path = react-boiler-plate
+	url = https://github.com/toy-project-kyungsle/react-boiler-plate.git
 [submodule "clone-twitter"]
 	path = clone-twitter
 	url = https://github.com/toy-project-kyungsle/clone-twitter.git
-[submodule "make-board-client"]
-	path = make-board-client
-	url = https://github.com/toy-project-kyungsle/make-board-client.git
-[submodule "make-board-server"]
-	path = make-board-server
-	url = https://github.com/toy-project-kyungsle/make-board-server.git
-[submodule "make-drag-drop-puzzle"]
-	path = make-drag-drop-puzzle
-	url = https://github.com/toy-project-kyungsle/make-drag-drop-puzzle.git
-[submodule "make-extracting-string-program"]
-	path = make-extracting-string-program
-	url = https://github.com/toy-project-kyungsle/make-extracting-string-program.git
-[submodule "make-bae-duo-server"]
-	path = make-bae-duo-server
-	url = https://github.com/toy-project-kyungsle/make-bae-duo-server.git
+[submodule "board-client"]
+	path = board-client
+	url = https://github.com/toy-project-kyungsle/board-client.git
+[submodule "board-server"]
+	path = board-server
+	url = https://github.com/toy-project-kyungsle/board-server.git
+[submodule "drag-drop-puzzle"]
+	path = drag-drop-puzzle
+	url = https://github.com/toy-project-kyungsle/drag-drop-puzzle.git
+[submodule "extract-string-program"]
+	path = extract-string-program
+	url = https://github.com/toy-project-kyungsle/extract-string-program.git
+[submodule "bae-duo-server"]
+	path = bae-duo-server
+	url = https://github.com/toy-project-kyungsle/bae-duo-server.git
 [submodule "shorten-link"]
 	path = shorten-link
 	url = https://github.com/toy-project-kyungsle/shorten-link.git
-[submodule "make-baedal-duo-client"]
-	path = make-baedal-duo-client
-	url = https://github.com/toy-project-kyungsle/make-baedal-duo-client.git
-[submodule "make-my-blog-client"]
-	path = make-my-blog-client
-	url = https://github.com/toy-project-kyungsle/make-my-blog-client.git
-[submodule "make-my-blog-server"]
-	path = make-my-blog-server
-	url = https://github.com/toy-project-kyungsle/make-my-blog-server.git
-[submodule "make-my-blog-image-server"]
-	path = make-my-blog-image-server
-	url = https://github.com/toy-project-kyungsle/make-my-blog-image-server.git
-[submodule "make-book-comment-web"]
-	path = make-book-comment-web
-	url = https://github.com/toy-project-kyungsle/make-book-comment-web.git
-[submodule "make-npm-common-package"]
-	path = make-npm-common-package
-	url = https://github.com/toy-project-kyungsle/make-npm-common-package.git
+[submodule "bae-duo-client"]
+	path = bae-duo-client
+	url = https://github.com/toy-project-kyungsle/bae-duo-client.git
+[submodule "my-blog-client"]
+	path = my-blog-client
+	url = https://github.com/toy-project-kyungsle/my-blog-client.git
+[submodule "my-blog-server"]
+	path = my-blog-server
+	url = https://github.com/toy-project-kyungsle/my-blog-server.git
+[submodule "my-blog-image-server"]
+	path = my-blog-image-server
+	url = https://github.com/toy-project-kyungsle/my-blog-image-server.git
+[submodule "comment-book-web"]
+	path = comment-book-web
+	url = https://github.com/toy-project-kyungsle/comment-book-web.git
+[submodule "npm-common-package"]
+	path = npm-common-package
+	url = https://github.com/toy-project-kyungsle/npm-common-package.git
