@@ -1,0 +1,27 @@
+[submodule "clone-youtube"]
+	path = clone-youtube
+	url = https://github.com/toy-project-kyungsle/clone-youtube.git
+[submodule "make-movie-app"]
+	path = make-movie-app
+	url = https://github.com/toy-project-kyungsle/make-movie-app.git
+[submodule "clone-slack"]
+	path = clone-slack
+	url = https://github.com/toy-project-kyungsle/clone-slack.git
+[submodule "make-react-boiler-plate"]
+	path = make-react-boiler-plate
+	url = https://github.com/toy-project-kyungsle/make-react-boiler-plate.git
+[submodule "clone-twitter"]
+	path = clone-twitter
+	url = https://github.com/toy-project-kyungsle/clone-twitter.git
+[submodule "make-board-client"]
+	path = make-board-client
+	url = https://github.com/toy-project-kyungsle/make-board-client.git
+[submodule "make-board-server"]
+	path = make-board-server
+	url = https://github.com/toy-project-kyungsle/make-board-server.git
+[submodule "make-drag-drop-puzzle"]
+	path = make-drag-drop-puzzle
+	url = https://github.com/toy-project-kyungsle/make-drag-drop-puzzle.git
+[submodule "make-extracting-string-program"]
+	path = make-extracting-string-program
+	url = https://github.com/toy-project-kyungsle/make-extracting-string-program.git
