@@ -1,18 +1,9 @@
-[submodule "clone-youtube"]
-	path = clone-youtube
-	url = https://github.com/toy-project-kyungsle/clone-youtube.git
 [submodule "recommend-movie-app"]
 	path = recommend-movie-app
 	url = https://github.com/toy-project-kyungsle/recommend-movie-app.git
-[submodule "clone-slack"]
-	path = clone-slack
-	url = https://github.com/toy-project-kyungsle/clone-slack.git
 [submodule "react-boiler-plate"]
 	path = react-boiler-plate
 	url = https://github.com/toy-project-kyungsle/react-boiler-plate.git
-[submodule "clone-twitter"]
-	path = clone-twitter
-	url = https://github.com/toy-project-kyungsle/clone-twitter.git
 [submodule "q-board-client"]
 	path = q-board-client
 	url = https://github.com/toy-project-kyungsle/q-board-client.git
@@ -28,9 +19,6 @@
 [submodule "bae-duo-server"]
 	path = bae-duo-server
 	url = https://github.com/toy-project-kyungsle/bae-duo-server.git
-[submodule "shorten-link"]
-	path = shorten-link
-	url = https://github.com/toy-project-kyungsle/shorten-link.git
 [submodule "bae-duo-client"]
 	path = bae-duo-client
 	url = https://github.com/toy-project-kyungsle/bae-duo-client.git
