@@ -37,3 +37,16 @@
 [submodule "npm-common-package"]
 	path = npm-common-package
 	url = https://github.com/toy-project-kyungsle/npm-common-package.git
+
+[submodule "clone-youtube"]
+	path = clone-youtube
+	url = https://github.com/toy-project-kyungsle/clone-youtube.git
+[submodule "clone-slack"]
+	path = clone-slack
+	url = https://github.com/toy-project-kyungsle/clone-slack.git
+[submodule "clone-twitter"]
+	path = clone-twitter
+	url = https://github.com/toy-project-kyungsle/clone-twitter.git
+[submodule "shorten-link"]
+	path = shorten-link
+	url = https://github.com/toy-project-kyungsle/shorten-link.git
