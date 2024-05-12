@@ -2,7 +2,7 @@ name: Sync with Upstream
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 매일 자정(UTC 기준)에 실행
+    - cron: '15 0 * * *' # 매일 자정(UTC 기준)에 실행
 
 jobs:
   sync:
@@ -20,7 +20,7 @@ jobs:
         git config user.email 'soogood97@gmail.com'
 
     - name: Add remote upstream
-      run: git remote add upstream https://github.com/original-owner/original-repository.git
+      run: git remote add upstream https://github.com/toy-project-kyungsle/bundle-repo.git
 
     - name: Fetch changes from upstream
       run: git fetch upstream
