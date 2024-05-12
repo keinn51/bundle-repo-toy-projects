@@ -25,3 +25,27 @@
 [submodule "make-extracting-string-program"]
 	path = make-extracting-string-program
 	url = https://github.com/toy-project-kyungsle/make-extracting-string-program.git
+[submodule "make-bae-duo-server"]
+	path = make-bae-duo-server
+	url = https://github.com/toy-project-kyungsle/make-bae-duo-server.git
+[submodule "shorten-link"]
+	path = shorten-link
+	url = https://github.com/toy-project-kyungsle/shorten-link.git
+[submodule "make-baedal-duo-client"]
+	path = make-baedal-duo-client
+	url = https://github.com/toy-project-kyungsle/make-baedal-duo-client.git
+[submodule "make-my-blog-client"]
+	path = make-my-blog-client
+	url = https://github.com/toy-project-kyungsle/make-my-blog-client.git
+[submodule "make-my-blog-server"]
+	path = make-my-blog-server
+	url = https://github.com/toy-project-kyungsle/make-my-blog-server.git
+[submodule "make-my-blog-image-server"]
+	path = make-my-blog-image-server
+	url = https://github.com/toy-project-kyungsle/make-my-blog-image-server.git
+[submodule "make-book-comment-web"]
+	path = make-book-comment-web
+	url = https://github.com/toy-project-kyungsle/make-book-comment-web.git
+[submodule "make-npm-common-package"]
+	path = make-npm-common-package
+	url = https://github.com/toy-project-kyungsle/make-npm-common-package.git
