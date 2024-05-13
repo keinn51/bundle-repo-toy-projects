@@ -13,6 +13,11 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
+    - name: Configure git
+      run: |
+        git config --global user.name 'keinn51'
+        git config --global user.email 'soogood97@gmail.com'
+
     - name: Update submodule
       run: |
         git submodule update --remote
