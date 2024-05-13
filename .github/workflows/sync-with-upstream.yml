@@ -16,8 +16,8 @@ jobs:
 
     - name: Configure git
       run: |
-        git config user.name 'keinn51'
-        git config user.email 'soogood97@gmail.com'
+        git config --global user.name 'keinn51'
+        git config --global user.email 'soogood97@gmail.com'
 
     - name: Add remote upstream
       run: git remote add upstream https://github.com/toy-project-kyungsle/bundle-repo.git
