@@ -7,3 +7,6 @@
 [submodule "2023-done"]
 	path = 2023-done
 	url = https://github.com/toy-project-kyungsle/2023-done.git
+[submodule "2024-done"]
+	path = 2024-done
+	url = https://github.com/toy-project-kyungsle/2024-done.git
